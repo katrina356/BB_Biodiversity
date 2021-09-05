@@ -1,0 +1,11 @@
+body {
+    background-color:rgb(215, 227, 241);
+    
+  }
+
+  .jumbotron {
+      background-image: url("/images/bioD.png");
+      background-size: 100% 100%;
+      text-align: center;
+      
+  }
